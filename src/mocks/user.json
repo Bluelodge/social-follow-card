@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "thebigr",
+      "name": "Rick Sánchez",
+      "avatar": "/avatars/rick-avatar.webp",
+      "isFollowing": false,
+      "description": "The Rickest Rick"
+    },
+    {
+      "username": "evilmorty",
+      "name": "Morty Smith",
+      "avatar": "/avatars/evilmorty-avatar.webp",
+      "isFollowing": true,
+      "description": "President of the Citadel"
+    },
+    {
+      "username": "sumsum",
+      "name": "Summer Smith",
+      "avatar": "/avatars/summer-avatar.webp",
+      "isFollowing": false,
+      "description": "Tinkles' friend"
+    },
+    {
+      "username": "snuffles",
+      "name": "Snuffles",
+      "avatar": "/avatars/snowball-avatar.webp",
+      "isFollowing": false,
+      "description": "In the dog dimension"
+    },
+    {
+      "username": "poopypants",
+      "name": "Mr. Poopybutthole",
+      "avatar": "/avatars/mrpoopy-avatar.webp",
+      "isFollowing": false,
+      "description": "Former professor"
+    },
+    {
+      "username": "meeseeks",
+      "name": "Mr. Meeseeks",
+      "avatar": "/avatars/meeseeks-avatar.webp",
+      "isFollowing": false,
+      "description": "I'm Mr. Meeseeks! Look at me!"
+    }
+  ]
+}
